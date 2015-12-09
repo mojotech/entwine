@@ -1,0 +1,34 @@
+{
+  "name": "entwine",
+  "version": "0.1.0",
+  "description": "Immutable Dependency Injection",
+  "author": "MojoTech",
+  "keywords": [
+    "cucumber",
+    "selenium-webdriver",
+    "testing"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mojotech/entwine",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mojotech/entwine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mojotech/entwine/issues"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "dependencies": {
+    "lodash": "3.10.1",
+    "bluebird": "3.0.6",
+    "immutable": "3.7.5"
+  },
+  "devDependencies": {
+    "mocha": "2.3.4"
+  }
+}
