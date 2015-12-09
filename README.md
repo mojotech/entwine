@@ -23,7 +23,7 @@ let entwine = require('entwine');
 // Database component
 //
 
-class Database extends entwine.component({config: {}, conn: nul}) {
+class Database extends entwine.component({config: {}, conn: null}) {
   start() {
     let self = this;
 
