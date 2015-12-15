@@ -4,9 +4,7 @@
   "description": "Immutable Dependency Injection",
   "author": "MojoTech",
   "keywords": [
-    "cucumber",
-    "selenium-webdriver",
-    "testing"
+    "immutable"
   ],
   "license": "MIT",
   "homepage": "https://github.com/mojotech/entwine",
